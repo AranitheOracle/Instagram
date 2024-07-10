@@ -31,7 +31,7 @@ const AuthForm = () => {
       <Box border={"1px solid gray"} borderRadius={4} padding={5}>
         <VStack spacing={4}>
           <Image
-            src="/public/logo.png"
+            src="/logo.png"
             h={24}
             cursor={"pointer"}
             alt="Instagram"
@@ -91,7 +91,7 @@ const AuthForm = () => {
             justifyContent={"center"}
             cursor={"pointer"}
           >
-            <Image src="/public/google.png" w={5} alt="Google" />
+            <Image src="/google.png" w={5} alt="Google" />
             <Text mx="2" color={"blue.500"}>
               Log in with Google
             </Text>
