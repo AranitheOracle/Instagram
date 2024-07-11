@@ -8,6 +8,7 @@ function App(){
       <Routes>
         <Route path='/' element={<HomePage />} />
         <Route path='/auth' element={<AuthPage />} />
+        <Route path='/:username' element={<ProfilePage />} />
       </Routes>
     </PageLayout>
   );
