@@ -48,19 +48,19 @@ const ProfileHeader = () => {
           </Flex>
         </Flex>
         <Flex alignItems={"center"} gap={{ base: 2, sm: 4 }}>
-          <Text>
+          <Text fontSize={{base:"xs",md:"sm"}}>
             <Text as={"span"} fontWeight={"bold"} mr={1}>
               4
             </Text>
             Posts
           </Text>
-          <Text>
+          <Text fontSize={{base:"xs",md:"sm"}}>
             <Text as={"span"} fontWeight={"bold"} mr={1}>
               24
             </Text>
             Followers
           </Text>
-          <Text>
+          <Text fontSize={{base:"xs",md:"sm"}}>
             <Text as={"span"} fontWeight={"bold"} mr={1}>
               240
             </Text>
