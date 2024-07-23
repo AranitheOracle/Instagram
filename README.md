@@ -21,7 +21,7 @@ Welcome to the Instagram Clone project! This repository features a comprehensive
 
 ### 🤖 Introduction
 
-This repository contains the code for an Instagram clone built using ReactJS, Chakra UI, Firebase, and Zustand. This project aims to replicate the core functionalities of Instagram, including user authentication, image posting, commenting, and liking. Follow our tutorial to learn how to build this project step-by-step in a beginner-friendly manner.
+This repository contains the code for an Instagram clone built using ReactJS, Chakra UI, Firebase, and Zustand. This project aims to replicate the core functionalities of Instagram, including user authentication, image posting, commenting, and liking.
 
 ### ⚙️ Tech Stack
 
