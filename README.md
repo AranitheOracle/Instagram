@@ -1,11 +1,21 @@
 # Instagram Clone ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-<div align="center">
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/ReactJS-blue" alt="ReactJS"></a>
-  <a href="https://chakra-ui.com/"><img src="https://img.shields.io/badge/Chakra%20UI-blue" alt="Chakra UI"></a>
-  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-yellow" alt="Firebase"></a>
-  <a href="https://github.com/pmndrs/zustand"><img src="https://img.shields.io/badge/Zustand-green" alt="Zustand"></a>
+<div style="text-align: center;">
+    <a href="https://reactjs.org/" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/ReactJS-blue.svg?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS">
+    </a>
+    <a href="https://firebase.google.com/" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+    </a>
+    <a href="https://zustand-demo.pmnd.rs/" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Zustand-000000.svg?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand">
+    </a>
+    <a href="https://chakra-ui.com/" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI">
+    </a>
 </div>
+
+
 
 ---
 
